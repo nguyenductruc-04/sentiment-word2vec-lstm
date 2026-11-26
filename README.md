@@ -1,4 +1,4 @@
-# Phân tích cảm xúc văn bản bằng Word2Vec và LSTM – Nhóm 12
+# Phân tích cảm xúc văn bản bằng Word2Vec và LSTM – Nhóm 9
 
 Đề tài môn Học sâu. Phân loại cảm xúc tweet tiếng Anh thành **Negative / Positive** trên bộ dữ liệu Sentiment140, dùng vector Word2Vec làm Embedding và mạng LSTM cài đặt bằng PyTorch (GPU).
 
