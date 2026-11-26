@@ -1,0 +1,17 @@
+Best checkpoint epoch: 12
+Test samples: 320000
+Test Accuracy: 0.797125
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Negative     0.7975    0.7966    0.7971    160046
+    Positive     0.7967    0.7976    0.7972    159954
+
+    accuracy                         0.7971    320000
+   macro avg     0.7971    0.7971    0.7971    320000
+weighted avg     0.7971    0.7971    0.7971    320000
+
+Confusion Matrix:
+[[127495  32551]
+ [ 32369 127585]]
